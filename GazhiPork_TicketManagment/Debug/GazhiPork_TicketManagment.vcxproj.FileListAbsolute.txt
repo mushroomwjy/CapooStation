@@ -1,0 +1,5 @@
+D:\wangjuny\mushroom学习_daily\SEU_计算机程序设计\SEU计算机程序设计下\脆皮五花肉(差买票退票Backup)\GazhiPork_TicketManagment\Debug\GazhiPork_TicketManagment.exe
+D:\wangjuny\MushroomStudy\course\C++计算机程序设计_SEU\SEU计算机程序设计下\脆皮五花肉(差买票退票Backup)\GazhiPork_TicketManagment\Debug\GazhiPork_TicketManagment.exe
+D:\wangjuny\MushroomStudy\course\C++计算机程序设计_SEU\SEU计算机程序设计下\脆皮五花肉(差mylist)\GazhiPork_TicketManagment\Debug\GazhiPork_TicketManagment.exe
+E:\Mushroom_course\C++计算机程序设计_SEU\SEU计算机程序设计下\脆皮五花肉\GazhiPork_TicketManagment\Debug\GazhiPork_TicketManagment.exe
+E:\Mushroom_course\C++计算机程序设计_SEU\SEU计算机程序设计下\脆皮五花肉\08122209 王骏宇\GazhiPork_TicketManagment\Debug\GazhiPork_TicketManagment.exe

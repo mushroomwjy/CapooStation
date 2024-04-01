@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GazhiPork_TicketManagment.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="framework.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GazhiPork_TicketManagmentDoc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GazhiPork_TicketManagmentView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="InfoFile.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CLoginDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CSelectView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CDisplayView.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdmUserDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdmWelcome.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCusWelcome.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdmAllmsg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdmAddbus.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdmDelbus.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CAdmSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCusSearch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GetSysTimeMush.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCusBuytic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CCusDeltic.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Diary.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mylist.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GazhiPork_TicketManagment.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GazhiPork_TicketManagmentDoc.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GazhiPork_TicketManagmentView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="InfoFile.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CLoginDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CSelectView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CDisplayView.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdmUserDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdmWelcome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCusWelcome.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdmAllmsg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdmAddbus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdmDelbus.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CAdmSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCusSearch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GetSysTimeMush.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCusBuytic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CCusDeltic.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Diary.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="GazhiPorkTicketManagment.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\GazhiPorkTicketManagment.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\GazhiPork_TicketManagmentDoc.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\GazhiPork_TicketManagment.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-binoculars-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-box-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-for-you-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-home-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-info-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-key-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-lock-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-menu-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-news-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-search-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-setting-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-speech-bubble-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-sun-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-toolbox-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-trash-can-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-user-male-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-services-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icons8-mailbox-24.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
